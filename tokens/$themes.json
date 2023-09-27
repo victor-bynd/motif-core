@@ -3,7 +3,11 @@
     "id": "47928be6b894dfff9ad0f8717fe43403b373d4f1",
     "name": "global",
     "selectedTokenSets": {
-      "snap/global": "enabled"
+      "core/global": "enabled",
+      "core/primary": "disabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "$figmaStyleReferences": {
       "Palette.Plain.BLACK": "S:ccef6800845b245fd397009d00a4ac0be9b68a00,",
@@ -170,8 +174,11 @@
     "id": "eb422728c91715b09e9ef48f10707ce2462534c5",
     "name": "primary",
     "selectedTokenSets": {
-      "snap/primary": "enabled",
-      "snap/global": "source"
+      "core/global": "source",
+      "core/primary": "enabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "$figmaStyleReferences": {
       "Root.bg-color": "S:f1f24999d3e30cb6da8348afaea4969d5f1f1aaa,",
@@ -349,9 +356,11 @@
     "id": "83a1cd4576f59368e17490a5ade9766fc17b6883",
     "name": "secondary",
     "selectedTokenSets": {
-      "snap/secondary": "enabled",
-      "snap/global": "source",
-      "snap/primary": "enabled"
+      "core/global": "source",
+      "core/primary": "enabled",
+      "core/secondary": "enabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -446,9 +455,11 @@
     "id": "b808cd6fc32143d9f4bfcff8ef8c5740efbc1eeb",
     "name": "tertiary",
     "selectedTokenSets": {
-      "snap/tertiary": "enabled",
-      "snap/global": "source",
-      "snap/primary": "enabled"
+      "core/global": "source",
+      "core/primary": "enabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "enabled",
+      "core/quaternary": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -543,9 +554,11 @@
     "id": "8e22e17849872db5c5f8561bbdb3afa723f035c6",
     "name": "quaternary",
     "selectedTokenSets": {
-      "snap/quaternary": "enabled",
-      "snap/global": "source",
-      "snap/primary": "enabled"
+      "core/global": "source",
+      "core/primary": "enabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "enabled"
     },
     "$figmaStyleReferences": {
       "Root.bg-color": "S:c535376c9fb13ba0a50673542590b5d4758df545,",
@@ -685,7 +698,11 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "bitmoji/global": "source"
+      "core/global": "disabled",
+      "core/primary": "disabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "group": "Bitmoji"
   },
@@ -694,8 +711,11 @@
     "name": "primary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "bitmoji/global": "source",
-      "bitmoji/primary": "enabled"
+      "core/global": "disabled",
+      "core/primary": "disabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "group": "Bitmoji"
   },
@@ -704,9 +724,11 @@
     "name": "secondary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "bitmoji/global": "source",
-      "bitmoji/primary": "enabled",
-      "bitmoji/secondary": "enabled"
+      "core/global": "disabled",
+      "core/primary": "disabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "group": "Bitmoji"
   },
@@ -715,9 +737,11 @@
     "name": "tertiary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "bitmoji/global": "source",
-      "bitmoji/primary": "enabled",
-      "bitmoji/tertiary": "enabled"
+      "core/global": "disabled",
+      "core/primary": "disabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "group": "Bitmoji"
   },
@@ -726,9 +750,11 @@
     "name": "quarternary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "bitmoji/global": "source",
-      "bitmoji/primary": "enabled",
-      "bitmoji/quaternary": "enabled"
+      "core/global": "disabled",
+      "core/primary": "disabled",
+      "core/secondary": "disabled",
+      "core/tertiary": "disabled",
+      "core/quaternary": "disabled"
     },
     "group": "Bitmoji"
   }
