@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "snap/global",
+    "snap/primary",
+    "snap/secondary",
+    "snap/tertiary",
+    "snap/quaternary",
+    "bitmoji/global",
+    "bitmoji/primary",
+    "bitmoji/secondary",
+    "bitmoji/tertiary",
+    "bitmoji/quaternary"
+  ]
+}
