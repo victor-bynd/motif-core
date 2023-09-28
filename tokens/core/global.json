@@ -242,22 +242,22 @@
   },
   "Primary": {
     "V50": {
-      "value": "{Palette.Yellow.V50}",
+      "value": "{Palette.Green.V50}",
       "type": "color",
       "description": "Primary.V50"
     },
     "V100": {
-      "value": "{Palette.Yellow.V100}",
+      "value": "{Palette.Green.V100}",
       "type": "color",
       "description": "Primary.V100"
     },
     "V150": {
-      "value": "{Palette.Yellow.V150}",
+      "value": "{Palette.Green.V150}",
       "type": "color",
       "description": "Primary.V150"
     },
     "V200": {
-      "value": "{Palette.Yellow.V200}",
+      "value": "{Palette.Green.V200}",
       "type": "color",
       "description": "Primary.V200"
     }

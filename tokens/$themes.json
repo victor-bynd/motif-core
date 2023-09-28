@@ -3,11 +3,7 @@
     "id": "47928be6b894dfff9ad0f8717fe43403b373d4f1",
     "name": "global",
     "selectedTokenSets": {
-      "core/global": "enabled",
-      "core/primary": "disabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
+      "core/global": "enabled"
     },
     "$figmaStyleReferences": {
       "Palette.Plain.BLACK": "S:ccef6800845b245fd397009d00a4ac0be9b68a00,",
@@ -175,10 +171,7 @@
     "name": "primary",
     "selectedTokenSets": {
       "core/global": "source",
-      "core/primary": "enabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
+      "core/primary": "enabled"
     },
     "$figmaStyleReferences": {
       "Root.bg-color": "S:f1f24999d3e30cb6da8348afaea4969d5f1f1aaa,",
@@ -358,9 +351,7 @@
     "selectedTokenSets": {
       "core/global": "source",
       "core/primary": "enabled",
-      "core/secondary": "enabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
+      "core/secondary": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -457,9 +448,7 @@
     "selectedTokenSets": {
       "core/global": "source",
       "core/primary": "enabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "enabled",
-      "core/quaternary": "disabled"
+      "core/tertiary": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -556,8 +545,6 @@
     "selectedTokenSets": {
       "core/global": "source",
       "core/primary": "enabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
       "core/quaternary": "enabled"
     },
     "$figmaStyleReferences": {
@@ -697,65 +684,35 @@
     "id": "a3e065cc012fc6c36a0fa0ab129ae6ff9bfbb687",
     "name": "global",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "disabled",
-      "core/primary": "disabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Bitmoji"
   },
   {
     "id": "f76cf7d9bce1106aea705b34927c31861b3df8d9",
     "name": "primary",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "disabled",
-      "core/primary": "disabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Bitmoji"
   },
   {
     "id": "62fc75cac64f2fee52e14744b7f9eaea82d23cc3",
     "name": "secondary",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "disabled",
-      "core/primary": "disabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Bitmoji"
   },
   {
     "id": "d6d2223330e87edc000b249f4044dbbee4782552",
     "name": "tertiary",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "disabled",
-      "core/primary": "disabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Bitmoji"
   },
   {
     "id": "459ad9b66c12f396e3d0df0a0bc47120d0aaaf6a",
     "name": "quarternary",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/global": "disabled",
-      "core/primary": "disabled",
-      "core/secondary": "disabled",
-      "core/tertiary": "disabled",
-      "core/quaternary": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Bitmoji"
   }
 ]
