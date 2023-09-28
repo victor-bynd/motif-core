@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "core/global",
+    "global",
     "core/primary",
     "core/secondary",
     "core/tertiary",
