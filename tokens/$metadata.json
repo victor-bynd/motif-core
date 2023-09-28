@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "core/global",
+    "core/primary",
+    "core/secondary",
+    "core/tertiary",
+    "core/quaternary"
+  ]
+}
