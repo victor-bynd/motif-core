@@ -504,5 +504,11 @@
       "type": "color",
       "description": "--tooltip-bg-color"
     }
+  },
+  "New-component": {
+    "new-component-color": {
+      "value": "{Palette.Purple.V100}",
+      "type": "color"
+    }
   }
 }
