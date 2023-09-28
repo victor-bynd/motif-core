@@ -247,7 +247,7 @@
       "description": "Primary.V50"
     },
     "V100": {
-      "value": "{Palette.Yellow.V100}",
+      "value": "{Palette.Green.V100}",
       "type": "color",
       "description": "Primary.V100"
     },
