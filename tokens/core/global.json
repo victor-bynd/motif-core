@@ -723,5 +723,11 @@
       "type": "color",
       "description": "--semantic-focus-color"
     }
+  },
+  "Snap-component": {
+    "unique-component": {
+      "value": "#ff1717",
+      "type": "color"
+    }
   }
 }
