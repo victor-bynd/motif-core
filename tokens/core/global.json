@@ -242,7 +242,7 @@
   },
   "Primary": {
     "V50": {
-      "value": "{Palette.Yellow.V50}",
+      "value": "{Palette.Green.V50}",
       "type": "color",
       "description": "Primary.V50"
     },
